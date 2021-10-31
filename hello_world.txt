@@ -1,0 +1,1 @@
+If you're reading this, the git repo stuff is done correctly.
